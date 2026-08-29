@@ -1,7 +1,1 @@
-<svg width="1720" height="760" viewBox="0 0 172 76" xmlns="http://www.w3.org/2000/svg">
-  <text y="12" x="2" textLength="170" style="white-space: pre" letter-spacing=".55" font-family="DejaVu Sans Mono" font-size="14"> !&quot;#$%&amp;'()*+,-./012</text>
-  <text y="27" x="2" textLength="170" style="white-space: pre" letter-spacing=".55" font-family="DejaVu Sans Mono" font-size="14">3456789:;&lt;=&gt;?@ABCDE</text>
-  <text y="42" x="2" textLength="170" style="white-space: pre" letter-spacing=".55" font-family="DejaVu Sans Mono" font-size="14">FGHIJKLMNOPQRSTUVWX</text>
-  <text y="57" x="2" textLength="170" style="white-space: pre" letter-spacing=".55" font-family="DejaVu Sans Mono" font-size="14">YZ[\]^_`abcdefghijk</text>
-  <text y="72" x="2" textLength="170" style="white-space: pre" letter-spacing=".55" font-family="DejaVu Sans Mono" font-size="14">lmnopqrstuvwxyz{|}~</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1720" height="760" viewBox="0 0 172 76"><text x="2" y="12" font-family="DejaVu Sans Mono" font-size="14" letter-spacing=".55" textLength="170" style="white-space:pre">!&quot;#$%&amp;&apos;()*+,-./012</text><text x="2" y="27" font-family="DejaVu Sans Mono" font-size="14" letter-spacing=".55" textLength="170" style="white-space:pre">3456789:;&lt;=&gt;?@ABCDE</text><text x="2" y="42" font-family="DejaVu Sans Mono" font-size="14" letter-spacing=".55" textLength="170" style="white-space:pre">FGHIJKLMNOPQRSTUVWX</text><text x="2" y="57" font-family="DejaVu Sans Mono" font-size="14" letter-spacing=".55" textLength="170" style="white-space:pre">YZ[\]^_`abcdefghijk</text><text x="2" y="72" font-family="DejaVu Sans Mono" font-size="14" letter-spacing=".55" textLength="170" style="white-space:pre">lmnopqrstuvwxyz{|}~</text></svg>
